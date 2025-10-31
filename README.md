@@ -1,10 +1,10 @@
 # CS3502_02_Docker
 Going to be using this repo as a version control for the OS project using a Docker Container
 Project is going to be written in C
-<br> ## Specs </br>
+<br> Specs </br>
 <br> CPU: Ryzen 7 4800H 8C/16T </br>
 <br> RAM: 2*16 GB SODIMM DDR4 2667 Mhz </br>
-<br> Graphics Card: RTX 2060 </br>
+<br> Graphics Card: RTX 2060 6 GB Driver Version: 581.57 </br>
 <br> Storage: <br>Disk 0 (D:)
 
 	ST2000LX001-1RG174
